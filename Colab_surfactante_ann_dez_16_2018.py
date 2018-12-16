@@ -8,7 +8,7 @@ from sklearn.neural_network import MLPRegressor
 from sklearn.metrics import mean_squared_error
 from sklearn.metrics import r2_score
 from mpl_toolkits.mplot3d import Axes3D, axes3d
-%matplotlib inline
+
 
 NOME='Ensaios_Biossurfactante_Novo.xlsx'
 
